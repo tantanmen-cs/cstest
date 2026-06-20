@@ -1,6 +1,15 @@
----
-title: Welcome to Quartz
----
+# AI用語集
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+AI関連用語を整理するためのサンプルサイトです。
+
+## ページ一覧
+
+  - [[About]]
+  - [[Transformer]]
+  - [[Attention]]
+
+## はじめに
+
+このサイトは Quartz と Obsidian を使ったサンプルです。
+
+内部リンクや検索機能の確認に利用できます。
